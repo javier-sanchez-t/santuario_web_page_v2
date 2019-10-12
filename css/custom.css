@@ -27,6 +27,7 @@
     body{ 
       font-family: 'HelveticaText'; 
       background-color: var(--page-bg-color);
+      /*background-image: url('../img/linea_punteada.png');*/
       color: var(--page-font-color);
       height: 100%;
     }
