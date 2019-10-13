@@ -275,7 +275,7 @@
       background-image: url('../img/bosque_magico/4.jpg');
       background-repeat: no-repeat;
       width: 100%;
-      height: 400px;
+      height: 450px;
       background-size: cover; 
       /*background-attachment: fixed;*/
       background-position: center center;
@@ -286,7 +286,7 @@
     .containerTextAtencion{
       position: absolute;
       bottom: 10px;
-      padding: 2% 10% 2% 10%;
+      padding: 20px 20px 20px 20px;
       background-color:  #da0d2f;      ;
       opacity: var(--main-bg-opacity);
       width: 100%;
@@ -540,17 +540,17 @@
     }
 
     .imgFacturacion{
-      width: 105px;
+      width: 80px;
       height: auto;
     }
 
     .imgVuelos{
-      width: 70px;
+      width: 60px;
       height: auto;
     }
 
     .imgClima{
-      width: 65px;
+      width: 55px;
       height: auto;
     }
 
@@ -560,7 +560,7 @@
     }
 
     .imgLlegar{
-      width: 55px;
+      width: 80px;
       height: auto;
     }
 
